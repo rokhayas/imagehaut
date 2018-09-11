@@ -1,0 +1,17 @@
+
+#image { 
+    position : absolute; 
+    left : 400px; 
+    top : 200px; 
+    height :200px; 
+    width : 100px; 
+    
+  } 
+.maClasse
+{
+    transition-duration: 3s;
+}
+.maClasse:hover
+{
+    transform: translateY(-200px); /* On déplace l'objet */
+}
